@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	// Intentionally  messy  ssds cxdes for the bot to review
+	// Intentionally  messy  ssssds cxdes for the bot to review
 	var x int = 10
 	if x > 5 {
 		fmt.Println("X is greater than 5")
