@@ -8,7 +8,4 @@ func main() {
 		fmt.Println("X is greater than 5")
 	}
 
-	str := "hello"
-	data := &str
-	fmt.Println(*data)
 }
