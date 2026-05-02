@@ -10,6 +10,7 @@ func main() {
 	}
 
 	var API_KEY = "1234"
+	var GOOGLE_API_KEY = "1234"
 
 	var data *string
 	fmt.Println(*data)
